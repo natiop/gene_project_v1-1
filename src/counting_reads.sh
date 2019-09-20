@@ -1,4 +1,4 @@
-# first argument is input fastQ file
+
 in_fastq=$1
 
 # Counting number of reads in the input fastq file
